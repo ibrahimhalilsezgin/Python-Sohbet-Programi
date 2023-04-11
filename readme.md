@@ -17,8 +17,8 @@ python server.py
 ### Kullanıcı Tarafı
 ```bash 
 pip install -U pyinstaller
+pyinstaller client.pyw
 ```
-#### Bu işlem sonrasında `Dist` Klasörüne `client.exe` adlı bir dosya oluşucaktır. Kullanıcı bu dosyayı çalıştırarak sunucuya bağlanabilir...
-  
+#### Bu işlem sonrasında `Dist` Klasörüne `client.exe` adlı bir dosya oluşucaktır. Kullanıcı bu dosyayı çalıştırarak sunucuya bağlanabilir veya direkt client.pyw dosyasını çalıştırabilirsiniz.
 
 [Ibrahim Halil Sezgin](https://www.linkedin.com/in/ibrahimhalilsezgin/)
