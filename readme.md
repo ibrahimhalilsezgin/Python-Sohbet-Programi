@@ -21,4 +21,4 @@ pip install -U pyinstaller
 #### Bu işlem sonrasında `Dist` Klasörüne `client.exe` adlı bir dosya oluşucaktır. Kullanıcı bu dosyayı çalıştırarak sunucuya bağlanabilir...
   
 
-###### Ibrahim Halil Sezgin
+[Ibrahim Halil Sezgin](https://www.linkedin.com/in/ibrahimhalilsezgin/)
