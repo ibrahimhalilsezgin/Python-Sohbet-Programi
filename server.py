@@ -26,7 +26,6 @@ def client(client_socket, client_addr):
     client_socket.close()
     del clients[client_addr]
     print(f"Bir bağlantı kesildi: {client_addr}")
-    socket.send
 def starttheserver():
     server_socket = socket.socket()
     server_socket.bind((HOST, PORT))
