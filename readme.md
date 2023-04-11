@@ -3,7 +3,7 @@
 
   
 
-### Calıştırmak için gerekenler paketler
+### Çalıştırmak için gerekenler paketler
 
   
 
