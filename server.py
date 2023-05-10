@@ -1,7 +1,7 @@
 import socket
 import threading
 
-HOST = '0.0.0.0' # Sadece Localde çalıştırmak isterseniz localhost yazabilirsiniz ...
+HOST = 'localhost' # Sadece Localde çalıştırmak isterseniz localhost yazabilirsiniz ...
 PORT = 12345
 
 
